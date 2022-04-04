@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.m": "matlab",
+        "car_init.h": "c",
+        "car_global.h": "c",
+        "fsl_clock.h": "c",
+        "ips_display.h": "c",
+        "seekfree_scc8660_csi.h": "c",
+        "flash.h": "c",
+        "camera_process.h": "c"
+    }
+}
