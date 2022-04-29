@@ -1,5 +1,4 @@
 # TI-Cup-2021-1st
-Task F-Intelligent drug delivery trolley, we got 1st prize in national finals 
 
 [【电赛】送药小车 国赛一等奖1st TI Cup National Undergraduate Electronics Design Contest 2021](https://www.bilibili.com/video/BV13L411K7ex/)
 
