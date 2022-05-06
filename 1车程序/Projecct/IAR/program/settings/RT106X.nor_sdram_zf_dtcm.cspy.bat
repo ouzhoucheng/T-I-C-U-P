@@ -25,7 +25,7 @@ if not "%~1" == "" goto debugFile
 
 @echo on 
 
-"G:\C_code\IAR\common\bin\cspybat" -f "G:\天大\C_电赛\F题\1车程序\Projecct\IAR\program\settings\RT106X.nor_sdram_zf_dtcm.general.xcl" --backend -f "G:\天大\C_电赛\F题\1车程序\Projecct\IAR\program\settings\RT106X.nor_sdram_zf_dtcm.driver.xcl" 
+"G:\C_code\IAR\common\bin\cspybat" -f "G:\天大\C_电赛\F题\TI-Cup-2021-1st\1车程序\Projecct\IAR\program\settings\RT106X.nor_sdram_zf_dtcm.general.xcl" --backend -f "G:\天大\C_电赛\F题\TI-Cup-2021-1st\1车程序\Projecct\IAR\program\settings\RT106X.nor_sdram_zf_dtcm.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"G:\C_code\IAR\common\bin\cspybat" -f "G:\天大\C_电赛\F题\1车程序\Projecct\IAR\program\settings\RT106X.nor_sdram_zf_dtcm.general.xcl" "--debug_file=%~1" --backend -f "G:\天大\C_电赛\F题\1车程序\Projecct\IAR\program\settings\RT106X.nor_sdram_zf_dtcm.driver.xcl" 
+"G:\C_code\IAR\common\bin\cspybat" -f "G:\天大\C_电赛\F题\TI-Cup-2021-1st\1车程序\Projecct\IAR\program\settings\RT106X.nor_sdram_zf_dtcm.general.xcl" "--debug_file=%~1" --backend -f "G:\天大\C_电赛\F题\TI-Cup-2021-1st\1车程序\Projecct\IAR\program\settings\RT106X.nor_sdram_zf_dtcm.driver.xcl" 
 
 @echo off 
 :end

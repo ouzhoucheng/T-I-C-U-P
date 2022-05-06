@@ -1,10 +1,13 @@
 # TI-Cup-2021-1st
 
-[【电赛】送药小车 国赛一等奖1st TI Cup National Undergraduate Electronics Design Contest 2021](https://www.bilibili.com/video/BV13L411K7ex/)
+[VIDEO:视频演示](https://www.bilibili.com/video/BV13L411K7ex/)
 
-[为了装这个小车，拆了一辆国一智能车！2021全国电赛F题（天津大学）](https://www.bilibili.com/video/BV1Qr4y1Y7YR)
+[VIDEO:项目分享](https://www.bilibili.com/video/BV1Qr4y1Y7YR)
 
-# convert RGB color gamut image to Lab color gamut image using C language
+阅读
+- RGB转Lab(本文)
+- [比赛过程记录](https://github.com/ouzhoucheng/TI-Cup-2021-1st/blob/main/README/%E4%B8%A4%E6%AC%A1%E5%9B%BD%E4%B8%80%EF%BC%81%E7%94%B5%E8%B5%9B%E4%B8%AD%E7%9A%84%E6%99%BA%E8%83%BD%E8%A7%86%E8%A7%89%E7%BB%84.md)
+
 # RGB颜色空间
 RGB颜色是一种便于计算机识别的色彩模式,采用加色法,R为红色,G为绿色,B为蓝色,三种颜色从0(关闭)到255(亮度最大).
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/b5db6cb6a3784168939aca51a79e884c.png)
