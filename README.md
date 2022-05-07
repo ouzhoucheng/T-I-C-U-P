@@ -4,9 +4,15 @@
 
 [VIDEO:项目分享](https://www.bilibili.com/video/BV1Qr4y1Y7YR)
 
+<img src="photo/Certificate_front.jpg" width = 24% height = 24% div align=right />
+
+<img src="photo/Certificate_back.jpg" width = 50% height = 50% div align=right />
+
 阅读
 - RGB转Lab(本文)
 - [比赛过程记录](https://github.com/ouzhoucheng/TI-Cup-2021-1st/blob/main/README/%E4%B8%A4%E6%AC%A1%E5%9B%BD%E4%B8%80%EF%BC%81%E7%94%B5%E8%B5%9B%E4%B8%AD%E7%9A%84%E6%99%BA%E8%83%BD%E8%A7%86%E8%A7%89%E7%BB%84.md)
+
+![](photo/Cars.png)
 
 # RGB颜色空间
 RGB颜色是一种便于计算机识别的色彩模式,采用加色法,R为红色,G为绿色,B为蓝色,三种颜色从0(关闭)到255(亮度最大).
